@@ -1,0 +1,11 @@
+C:\Users\student\Documents\CSharp-Exercise#4\bin\Debug\netcoreapp3.1\CSharp-Exercise#4.exe
+C:\Users\student\Documents\CSharp-Exercise#4\bin\Debug\netcoreapp3.1\CSharp-Exercise#4.deps.json
+C:\Users\student\Documents\CSharp-Exercise#4\bin\Debug\netcoreapp3.1\CSharp-Exercise#4.runtimeconfig.json
+C:\Users\student\Documents\CSharp-Exercise#4\bin\Debug\netcoreapp3.1\CSharp-Exercise#4.runtimeconfig.dev.json
+C:\Users\student\Documents\CSharp-Exercise#4\bin\Debug\netcoreapp3.1\CSharp-Exercise#4.dll
+C:\Users\student\Documents\CSharp-Exercise#4\bin\Debug\netcoreapp3.1\CSharp-Exercise#4.pdb
+C:\Users\student\Documents\CSharp-Exercise#4\obj\Debug\netcoreapp3.1\CSharp-Exercise#4.csprojAssemblyReference.cache
+C:\Users\student\Documents\CSharp-Exercise#4\obj\Debug\netcoreapp3.1\CSharp-Exercise#4.AssemblyInfoInputs.cache
+C:\Users\student\Documents\CSharp-Exercise#4\obj\Debug\netcoreapp3.1\CSharp-Exercise#4.AssemblyInfo.cs
+C:\Users\student\Documents\CSharp-Exercise#4\obj\Debug\netcoreapp3.1\CSharp-Exercise#4.dll
+C:\Users\student\Documents\CSharp-Exercise#4\obj\Debug\netcoreapp3.1\CSharp-Exercise#4.pdb
